@@ -22,6 +22,6 @@ Exploring the Blockchain
 Troubleshooting and Common Issues: 
 Python Not Recognized: If you are getting an error says python is not recognised as an internal or external command then make sure python is added to your system’s PATH. You can do this by external command, make sure Python and selecting the option to modify the environment variables.
 Outdated Python Version: If your system has an outdated version of Python (test your Python version), then using pyenv for (Linux/macOS) or downloading the latest Windows installer.
-![image](https://github.com/user-attachments/assets/0a11648f-54f2-4331-a85a-db151c6f036a)
+
 
 
